@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiScreen App</string>
+    <string name="FamilyActivity"> Family Activity</string>
+    <string name="NumbersActivity"> Numbers Activity</string>
+    <string name="ColorsActivity"> Colors Activity</string>
+    <string name="PhrasesActivity"> Phrases Activity</string>
+</resources>
